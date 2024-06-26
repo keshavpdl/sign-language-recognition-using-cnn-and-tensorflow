@@ -3,7 +3,7 @@ Major Project;
 Simple and easy to use
 
 # Software Specification
-1.Python3
+1. Python3
 2. Opencv
 3. Numpy
 
