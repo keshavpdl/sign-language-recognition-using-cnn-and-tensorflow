@@ -3,7 +3,7 @@ Major Project;
 Simple and easy to use
 
 # Software Specification
-1. Tensorflow
+1.Python3
 2. Opencv
 3. Numpy
 
@@ -15,9 +15,9 @@ Simple and easy to use
 5. As of today, I have stored the 26 gestures for which are 26 alphabets of American Sign language. And trained the model on these images.
 
 # How To Run
-1. After downloading the repository, first run img_cap.py to add/capture gesture.
-2. Then make changes in the dataset.py file in the clasess line, and run dataset.py to create train_data.npy.
-3. Now run the train.py, which will train the data with the use of cnn_sgn.py in your PC.
-4. After training the data, finally run the output.py, which will open the window for gesture recognition.
+1. After downloading the repository, first run `img_cap.py` to add/capture gesture.
+2. Then make changes in the `dataset.py` file in the clasess line, and run dataset.py to create train_data.npy.
+3. Now run the `train.py`, which will train the data with the use of cnn_sgn.py in your PC.
+4. After training the data, finally run the `output.py`, which will open the window for gesture recognition.
 
 # Thank You
